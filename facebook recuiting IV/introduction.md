@@ -1,13 +1,13 @@
 # Facebook Recruiting IV Kaggle Challenge: "Human or Robot?"
 
 ## Introduction
-This project revolves around addressing the critical issue of computer-generated bidding in online auctions. The objective is to aid site owners in identifying and eliminating robotic bids, ensuring a fair and equitable auction platform. Despite previous attempts using behavioral data, the existing model has proven insufficient. Join me in exploring advanced techniques and methodologies employed to enhance predictive models, presenting a valuable addition to my portfolio as a data scientist committed to solving real-world challenges in the digital landscape.
+This project revolves around addressing the critical issue of computer-generated bidding in online auctions. The objective is to aid site owners in identifying and eliminating robotic bids, ensuring a fair and equitable auction platform. Despite previous attempts using behavioral data, the existing model has proven insufficient. Join me in exploring advanced techniques and methodologies employed to enhance predictive models, presenting a valuable addition to my portfolio as a data scientist committed to solving real-world challenges in the digital landscape. The solution is based on http://small-yellow-duck.github.io/auction.html
 
 ## Objective
 The primary objective of this project is to develop a robust machine learning model capable of distinguishing between human and robotic bids in online auctions. By leveraging advanced techniques, we aim to improve the accuracy and effectiveness of the existing model.
 
 ## Data
-The dataset provided by Facebook for the "Human or Robot?" challenge includes [describe key features and characteristics of the dataset]. Preprocessing steps were applied to clean and prepare the data for model training.
+The dataset provided by Facebook for the "Human or Robot?" challenge.
 
 ## Methodology
 ### 1. Exploratory Data Analysis (EDA)
@@ -17,7 +17,7 @@ The dataset provided by Facebook for the "Human or Robot?" challenge includes [d
 - Engineered new features to capture relevant information and enhance the predictive power of the model.
 
 ### 3. Model Selection
-- Explored various machine learning algorithms, such as [list algorithms], to determine the most suitable model for the task.
+- Explored various machine learning algorithms, such as [RandomForestClassifier and GradientBoostingClassifier], to determine the most suitable model for the task.
 
 ### 4. Model Training and Evaluation
 - Split the dataset into training and validation sets.
